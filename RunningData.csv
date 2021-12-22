@@ -1,13 +1,14 @@
-﻿Date,Morning_Or_Night,Miles,Time_Minutes,Calories,Treadmill_Road_Track,Average_Pace,Location_Details,Other_Details
-11/29/21,Night,4.09,50.67,470,Treadmill,12:25,Ithaca,Stopped early bc felt unwell
-11/30/21,Night,5.3,62.78,624,Treadmill,11:49,Ithaca,Good bc ate two bananas before
-12/1/21,Night,5.06,60.13,593,Treadmill,11:52,Ithaca,Didn’t feel great afterwards; don’t eat dinner too late
-12/6/21,Night,4.25,54.55,474,Treadmill,12:50,Ithaca,Good but slow
-12/7/21,Night,2.99,36.33,347,Treadmill,12:06,Ithaca,Should start running earlier in the night to preserve bedtime
-12/8/21,Night,5.02,61.73,575,Treadmill,12:15,Ithaca,Felt a little blackout afterwards
-12/11/21,Night,1.75,20.55,207,Treadmill,11:43,Ithaca,Fine
-12/12/21,Night,4.89,60.15,559,Treadmill,12:17,Ithaca,Good bc ate banana before
-12/15/21,Night,4.69,59.95,521,Treadmill,12:45,Ithaca,"Good, listened to arias"
-12/17/21,Morning,4.92,60.15,464,Treadmill,12:13,"StuyTown, NYC","Good, try to run in the morning more often"
-12/20/21,Morning,5.54,64.35,450,Road,11:36,"Caltech, Pasadena","Good, first time using Nike running app"
-12/21/21,Morning,5.01,55.83,413,Road,11:08,"Caltech, Pasadena","Good, important to wear loose, lightweight clothing"
+﻿Date,Morning_or_Night,Miles,Time_Minutes,Calories,Treadmill_Road_Track,Average_Pace,Location_Details,Other_Details
+11/29/21,Night,4.09,50.67,470,Treadmill,12:25,"Ithaca, apartment gym",Stopped early bc felt unwell
+11/30/21,Night,5.3,62.78,624,Treadmill,11:49,"Ithaca, apartment gym",Good bc ate two bananas before
+12/1/21,Night,5.06,60.13,593,Treadmill,11:52,"Ithaca, apartment gym",Didn’t feel great afterwards; don’t eat dinner too late
+12/6/21,Night,4.25,54.55,474,Treadmill,12:50,"Ithaca, apartment gym",Good but slow
+12/7/21,Night,2.99,36.33,347,Treadmill,12:06,"Ithaca, apartment gym",Should start running earlier in the night to preserve bedtime
+12/8/21,Night,5.02,61.73,575,Treadmill,12:15,"Ithaca, apartment gym",Felt a little blackout afterwards
+12/11/21,Night,1.75,20.55,207,Treadmill,11:43,"Ithaca, apartment gym",Fine
+12/12/21,Night,4.89,60.15,559,Treadmill,12:17,"Ithaca, apartment gym",Good bc ate banana before
+12/15/21,Night,4.69,59.95,521,Treadmill,12:45,"Ithaca, apartment gym","Good, listened to arias"
+12/17/21,Morning,4.92,60.15,464,Treadmill,12:13,"NYC, gym on 14th street","Good, try to run in the morning more often"
+12/20/21,Morning,5.54,64.35,450,Road,11:36,"Caltech, Pasadena","Good, first time using the Nike running app to track stats/route"
+12/21/21,Morning,5.01,55.83,413,Road,11:08,"Caltech, Pasadena","Good; important to wear loose, lightweight clothing. Tried both Nike and Strava apps."
+12/22/21,Morning,5.11,51.7,351,Road,10:55,"Orlando/Lombardy, San Marino; Caltech, Pasadena",Did not feel good during the run for reasons unknown
