@@ -1,8 +1,8 @@
-Sara’s running data
+Running data
 ================
 
 This repository stores `RunningData.csv`, in which I record information
-about each of my runs (e.g. distance, time, location, average pace).
+about each of my runs (e.g. distance, time, average pace).
 
 ``` r
 # Read data, format dates and times
@@ -27,4 +27,4 @@ Total miles since 11/29/21:
 sum(runningData$Miles)
 ```
 
-    ## [1] 82.08
+    ## [1] 87.8
