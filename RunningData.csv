@@ -1,4 +1,4 @@
-﻿Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road_Track,Average_Pace,How_was_it?,Location
+﻿Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_Pace,How_Was_It,Location
 11/29/21,Night,4.09,50.67,470,Treadmill,12:25,Stopped early bc felt unwell,Ithaca 
 11/30/21,Night,5.3,62.78,624,Treadmill,11:49,Good bc ate two bananas before,Ithaca 
 12/1/21,Night,5.06,60.13,593,Treadmill,11:52,Didn’t feel great afterwards; don’t eat dinner too late,Ithaca 
@@ -22,3 +22,6 @@
 1/21/22,Morning,3,35,363,Treadmill,11:40,Sort of ok,NYC
 1/25/22,Night,5.02,62.43,568,Treadmill,12:26,Sort of ok,Ithaca 
 1/26/22,Night,5.01,60.18,583,Treadmill,12:00,Sort of ok,Ithaca 
+1/27/22,Night,5.31,65,607,Treadmill,12:14,Decent,Ithaca 
+1/28/22,Night,5,63.33,558,Treadmill,12:39,Decent but slow,Ithaca 
+1/30/22,Afternoon,4,42.2,384,Road,10:38,Good; phone died in the middle so data is approximate. Enjoyed sub-freezing temp.,Ithaca 
