@@ -27,4 +27,4 @@ Total miles since 11/29/21:
 sum(runningData$Miles)
 ```
 
-    ## [1] 133.64
+    ## [1] 137.47
