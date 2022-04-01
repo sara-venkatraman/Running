@@ -13,7 +13,7 @@ runningData$Average_Pace <- as.POSIXct(runningData$Average_Pace, format="%M:%S")
 # Plots 
 library(ggplot2); library(ggpubr); library(scales); library(ggthemr); ggthemr('dust')
 plotSettings <- list(geom_line(color="gray70"), geom_point(aes(color=Treadmill_Road)), scale_color_manual(values=c(alpha("orange3", 0.8), alpha("dodgerblue3",0.8))), theme(plot.title=element_text(hjust=0.5)), theme(legend.position="none"))
-p1 <- ggplot(runningData, aes(x=Date, y=Miles)) + labs(y="Distance (miles)", title="How far I ran") + plotSettings + labs(color="Where I ran") +  theme(legend.position=c(0.12, 0.83), legend.background=element_rect(size=0.1, linetype="solid", color="black"), legend.margin=margin(2,3,2,3), legend.title=element_text(size=9, face="bold"), legend.text=element_text(size=8)) +  guides(color=guide_legend(override.aes=list(size=1)))
+p1 <- ggplot(runningData, aes(x=Date, y=Miles)) + labs(y="Distance (miles)", title="How far I ran") + plotSettings + labs(color="Where I ran") +  theme(legend.position=c(0.12, 0.85), legend.background=element_rect(size=0.1, linetype="solid", color="black"), legend.margin=margin(2,3,2,3), legend.title=element_text(size=9, face="bold"), legend.text=element_text(size=8)) +  guides(color=guide_legend(override.aes=list(size=1)))
 p2 <- ggplot(runningData, aes(x=Date, y=Average_Pace)) + labs(y="Minutes:seconds", title="Average pace (time per mile)") + scale_y_datetime(date_labels="%M:%S") + plotSettings
 ggarrange(p1, p2, nrow=1)
 ```
@@ -25,7 +25,7 @@ ggarrange(p1, p2, nrow=1)
 sum(runningData$Miles)
 ```
 
-    ## [1] 328.63
+    ## [1] 347.75
 
 Average distance during the last 10 runs:
 
@@ -33,4 +33,4 @@ Average distance during the last 10 runs:
 mean(tail(runningData$Miles, 10))
 ```
 
-    ## [1] 9.149
+    ## [1] 9.568
