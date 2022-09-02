@@ -25,7 +25,7 @@ ggarrange(p1, p2, nrow=1)
 sum(runningData$Miles)
 ```
 
-    ## [1] 743.64
+    ## [1] 754.24
 
 Average distance during the last 10 runs:
 
@@ -33,4 +33,4 @@ Average distance during the last 10 runs:
 mean(tail(runningData$Miles, 10))
 ```
 
-    ## [1] 10.243
+    ## [1] 10.103
