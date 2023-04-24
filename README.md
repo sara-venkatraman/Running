@@ -18,20 +18,12 @@ p2 <- ggplot(runningData, aes(x=Date, y=Average_Pace)) + labs(y="Minutes", title
 ggarrange(p1, p2, nrow=1)
 ```
 
-![](Plots/README-Running-Plots-1.png)<!-- --> Total miles since
-11/29/21:
+![](Plots/README-Running-Plots-1.png)<!-- -->
+
+Total miles since 11/29/21:
 
 ``` r
 sum(runningData$Miles)
 ```
 
-    ## [1] 1175.87
-
-<!-- Average distance during the last 10 runs: -->
-<!-- ```{r} -->
-<!-- mean(tail(runningData$Miles, 10)) -->
-<!-- ``` -->
-<!-- Excluding races: -->
-<!-- ```{r} -->
-<!-- mean(tail(runningData$Miles[runningData$Treadmill_Road != "Race"], 10)) -->
-<!-- ``` -->
+    ## [1] 1205.26
