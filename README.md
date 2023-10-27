@@ -27,3 +27,11 @@ sum(runningData$Miles)
 ```
 
     ## [1] 1529.72
+
+Average distance over last ten runs:
+
+``` r
+mean(tail(runningData$Miles, 10))
+```
+
+    ## [1] 9.1
