@@ -1,215 +1,252 @@
 Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_Pace,How_Was_It
-11/29/21,Night,4.09,50.67,470,Treadmill,12:25,Stopped early bc felt unwell
-11/30/21,Night,5.3,62.78,624,Treadmill,11:49,Good bc ate two bananas before
-12/1/21,Night,5.06,60.13,593,Treadmill,11:52,Didn’t feel great afterwards; don’t eat dinner too late
+11/29/21,Night,4.09,50.67,470,Treadmill,12:25,Stopped early
+11/30/21,Night,5.3,62.78,624,Treadmill,11:49,Ate two bananas before
+12/1/21,Night,5.06,60.13,593,Treadmill,11:52,Didn't feel great afterwards
 12/6/21,Night,4.25,54.55,474,Treadmill,12:50,Good but slow
-12/7/21,Night,2.99,36.33,347,Treadmill,12:06,Should start running earlier in the night to preserve bedtime
-12/8/21,Night,5.02,61.73,575,Treadmill,12:15,Felt a little blackout afterwards
+12/7/21,Night,2.99,36.33,347,Treadmill,12:06,Too late
+12/8/21,Night,5.02,61.73,575,Treadmill,12:15,Blackout
 12/11/21,Night,1.75,20.55,207,Treadmill,11:43,Fine
-12/12/21,Night,4.89,60.15,559,Treadmill,12:17,Good bc ate banana before
-12/15/21,Night,4.69,59.95,521,Treadmill,12:45,Good bc listened to pretty music
-12/17/21,Morning,4.92,60.15,464,Treadmill,12:13,Good; try to run in the morning more often
-12/20/21,Morning,5.54,64.35,450,Road,11:36,Good; first time using the Nike running app to track stats/route
-12/21/21,Morning,5.01,55.83,413,Road,11:08,Good; tried both Nike and Strava apps
-12/22/21,Morning,5.11,51.7,351,Road,10:55,"Did not feel good during the run, idk why"
+12/12/21,Night,4.89,60.15,559,Treadmill,12:17,Good bc ate banana
+12/15/21,Night,4.69,59.95,521,Treadmill,12:45,Good music
+12/17/21,Morning,4.92,60.15,464,Treadmill,12:13,Early morning is good
+12/20/21,Morning,5.54,64.35,450,Road,11:36,Good
+12/21/21,Morning,5.01,55.83,413,Road,11:08,Good
+12/22/21,Morning,5.11,51.7,351,Road,10:55,Did not feel good
 12/24/21,Afternoon,6.66,71.62,555,Road,10:44,Good
-12/28/21,Morning,5.17,56.72,423,Road,10:58,Did not feel good during or after; not fully recovered from right leg soreness
-1/10/22,Morning,5.34,62.4,519,Road,11:41,Good but still have right leg soreness
+12/28/21,Morning,5.17,56.72,423,Road,10:58,Not fully recovered from soreness on right
+1/10/22,Morning,5.34,62.4,519,Road,11:41,Good but still have right soreness
 1/11/22,Afternoon,6.29,70.45,612,Road,11:11,Good
-1/13/22,Afternoon,5.72,60.87,556,Road,10:39,Good; listened to Rhapsody in Blue 3 times
-1/15/22,Afternoon,7.58,83.17,737,Road,10:58,Good; listened to Rhapsody in Blue 3 times
+1/13/22,Afternoon,5.72,60.87,556,Road,10:39,Listened to Rhapsody in Blue 3 times
+1/15/22,Afternoon,7.58,83.17,737,Road,10:58,Listened to Rhapsody in Blue 3 times
 1/17/22,Afternoon,5.21,56.93,507,Road,10:55,Good
 1/21/22,Morning,3,35,363,Treadmill,11:40,Sort of ok
 1/25/22,Night,5.02,62.43,568,Treadmill,12:26,Sort of ok
 1/26/22,Night,5.01,60.18,583,Treadmill,12:00,Sort of ok
 1/27/22,Night,5.31,65,515,Treadmill,12:14,Decent
 1/28/22,Night,5,63.33,558,Treadmill,12:39,Decent but slow
-1/30/22,Afternoon,4,42.2,384,Road,10:38,Good; phone died in the middle so data is approximate. Enjoyed sub-freezing temp.
-1/31/22,Morning,5.71,60.85,555,Road,10:39,Good; temperature was 6 degrees though
-2/1/22,Morning,3.83,42.92,372,Road,11:11,"Not good, stopped early; right leg soreness and side stitches were bad"
-2/3/22,Night,5.17,65,501,Treadmill,12:34,Good; watched video of entire Beethoven violin concerto
-2/4/22,Night,5.26,65,510,Treadmill,12:21,Good; watched video of entire Beethoven violin concerto
+1/30/22,Afternoon,4,42.2,384,Road,10:38,Enjoyed sub-freezing temp. Phone died in middle
+1/31/22,Morning,5.71,60.85,555,Road,10:39,Good but temperature was 6 degrees
+2/1/22,Morning,3.83,42.92,372,Road,11:11,"Not good, stopped early; soreness and side stitches were bad"
+2/3/22,Night,5.17,65,501,Treadmill,12:34,Watched video of Beethoven violin concerto
+2/4/22,Night,5.26,65,510,Treadmill,12:21,Watched video of Beethoven violin concerto
 2/5/22,Night,5.35,65,518,Treadmill,12:09,Good
-2/6/22,Night,5.37,65,521,Treadmill,12:05,Good; watched video of entire Beethoven violin concerto
-2/13/22,Night,8.38,105.08,812,Treadmill,12:32,Good; watched video of entire Beethoven violin concerto. Achilles is not good though.
-2/14/22,Night,10.52,130,1020,Treadmill,12:21,Good; watched video of entire Mendelssohn violin concerto a few times. Felt a bit unwell afterwards.
-2/19/22,Night,7.85,95.12,905,Treadmill,12:07,Good; listened to fun playlist
-2/20/22,Night,8.01,95.05,776,Treadmill,11:52,Good; listened to fun playlist
-2/21/22,Night,9.02,105.08,874,Treadmill,11:39,Good; listened to fun playlist
+2/6/22,Night,5.37,65,521,Treadmill,12:05,Watched video of Beethoven violin concerto
+2/13/22,Night,8.38,105.08,812,Treadmill,12:32,Watched video of Beethoven violin concerto
+2/14/22,Night,10.52,130,1020,Treadmill,12:21,Watched video of Mendelssohn violin concerto
+2/19/22,Night,7.85,95.12,905,Treadmill,12:07,Listened to fun playlist
+2/20/22,Night,8.01,95.05,776,Treadmill,11:52,Listened to fun playlist
+2/21/22,Night,9.02,105.08,874,Treadmill,11:39,Listened to fun playlist
 2/22/22,Afternoon,8.94,90.33,868,Road,10:12,Best run so far
-2/24/22,Afternoon,9.15,92.87,888,Road,10:09,"Quite good; sub-freezing temperature, might need warmer gloves. Happy about pace."
-2/26/22,Afternoon,7.5,79.58,729,Road,10:36,Good; felt a little slow maybe because of previous night's heavy dinner. Also too much snow/ice.
-3/2/22,Afternoon,7.52,79.68,731,Road,10:35,Good; should start running a little earlier before it gets dark
-3/5/22,Morning,1.63,15.97,157,Road,9:47,Cut short because fell down and hurt right knee :(
-3/7/22,Afternoon,7.5,73.76,499,Road,9:42,Strava got messed up so data is approximate. Pace calculated from first 4 miles.
-3/8/22,Morning,7.43,76.88,722,Road,10:20,Decent but legs felt a little tired
+2/24/22,Afternoon,9.15,92.87,888,Road,10:09,Sub-freezing
+2/26/22,Afternoon,7.5,79.58,729,Road,10:36,Slow bc heavy dinner
+3/2/22,Afternoon,7.52,79.68,731,Road,10:35,Good
+3/5/22,Morning,1.63,15.97,157,Road,9:47,Fell down and destroyed knee
+3/7/22,Afternoon,7.5,73.76,499,Road,9:42,Data approximate
+3/8/22,Morning,7.43,76.88,722,Road,10:20,Ok
 3/10/22,Afternoon,9.2,90.88,893,Road,9:52,Good!
-3/13/22,Afternoon,9.24,95.75,897,Road,10:22,"Good, but had to dodge a lot of snow/ice"
-3/15/22,Afternoon,11.11,109.15,1079,Road,9:49,Good; stomach started to hurt a bit during the last 2 miles
-3/18/22,Morning,7.5,75.05,455,Road,9:29,Strava got messed up so data is approximate. Pace calculated from first 3 miles.
-3/19/22,Morning,5.6,57.62,545,Road,10:17,"Too hot outside, should go earlier"
+3/13/22,Afternoon,9.24,95.75,897,Road,10:22,Good but had to dodge snow/ice
+3/15/22,Afternoon,11.11,109.15,1079,Road,9:49,Stomach pain last 2 miles
+3/18/22,Morning,7.5,75.05,455,Road,9:29,Pace approximated from first 3 miles
+3/19/22,Morning,5.6,57.62,545,Road,10:17,Too hot out
 3/20/22,Afternoon,10.1,101.73,981,Road,10:04,Good
 3/21/22,Afternoon,10.14,105.28,985,Road,10:17,Good
-3/24/22,Afternoon,13.67,136.12,1326,Road,9:57,"Good, first half marathon! Stomach didn't feel great tho last 3 miles"
+3/24/22,Afternoon,13.67,136.12,1326,Road,9:57,First half marathon! Stomach pain last 3 miles
 3/30/22,Afternoon,9.12,89.58,886,Road,9:49,Good
-3/31/22,Afternoon,10,105.95,983,Road,10:35,Decent first long run on Cornell's campus. Tough hills.
+3/31/22,Afternoon,10,105.95,983,Road,10:35,First run on campus. Hilly
 4/2/22,Afternoon,10.39,105.2,981,Road,10:07,Good
-4/5/22,Night,7.17,65.97,677,Road,9:12,Super fun run through lower Manhattan
-4/7/22,Night,7.04,71.93,663,Treadmill,10:13,Good treadmill run in Dallas hotel
+4/5/22,Night,7.17,65.97,677,Road,9:12,Fun. Lower Manhattan
+4/7/22,Night,7.04,71.93,663,Treadmill,10:13,Dallas
 4/10/22,Afternoon,5.08,53.25,485,Road,10:39,Difficult run from Olympic Valley to Tahoe City
-4/12/22,Night,10.25,99.47,970,Road,9:42,Good Manhattan run along the Hudson. Bad stomach pain near the end.
+4/12/22,Night,10.25,99.47,970,Road,9:42,Good
 4/16/22,Afternoon,10.85,106,1024,Road,9:46,Good
 4/19/22,Night,8.71,89.65,821,Treadmill,10:17,Good
-4/24/22,Morning,13.62,130.77,1294,Race,9:36,So much fun! NYCRUNS Brooklyn half marathon!
-4/30/22,Morning,5.44,51.77,515,Road,9:30,"Good, Black Diamond trail in Ithaca"
+4/24/22,Morning,13.62,130.77,1294,Race,9:36,NYCRUNS Brooklyn half marathon!
+4/30/22,Morning,5.44,51.77,515,Road,9:30,"Good, Black Diamond trail"
 5/1/22,Afternoon,9.2,86.32,868,Road,9:23,Good
-5/12/22,Afternoon,7,63.2,663,Road,9:01,"Manhattan run through East Village, LES, Chinatown, Little Italy, Soho, West Village, and Greenwich Village!"
-5/16/22,Night,6.18,56.62,590,Road,9:09,Run in Paris along the river to the Latin Quarter. Lot of fun but ate too much cheese beforehand.
-5/18/22,Night,8.8,87.65,834,Road,9:57,Run in Paris mostly along the river. Fun but a bit too hot outside.
-5/21/22,Night,7.18,67.85,678,Road,9:27,"Good, Hudson river/FiDi/Broadway route. Hot out."
-5/22/22,Night,5.07,49.98,479,Road,9:51,Good but very hot out. Tribeca and Greenwich Village. 
-5/23/22,Night,7.91,74.67,748,Road,9:26,"Good, Hudson river/FiDi/Broadway route. Reached 400 miles in 2022! Right calf hurts a lot though."
-5/28/22,Night,9.98,95.88,942,Road,9:36,"Good, to Staten Island Ferry and back via Hudson River. Some stomach pain."
-5/29/22,Night,6.82,64.87,644,Road,9:30,Good but got very hungry
+5/12/22,Afternoon,7,63.2,663,Road,9:01,Lower Manhattan
+5/16/22,Night,6.18,56.62,590,Road,9:09,"Paris, along Seine"
+5/18/22,Night,8.8,87.65,834,Road,9:57,Hot out
+5/21/22,Night,7.18,67.85,678,Road,9:27,Hot
+5/22/22,Night,5.07,49.98,479,Road,9:51,Very hot
+5/23/22,Night,7.91,74.67,748,Road,9:26,400 miles in 2022
+5/28/22,Night,9.98,95.88,942,Road,9:36,"Good, to Staten Island Ferry and back"
+5/29/22,Night,6.82,64.87,644,Road,9:30,Good but  very hungry
 6/3/22,Night,9.7,95.18,916,Road,9:49,"Good, perimeter of lower Manhattan"
 6/4/22,Night,6.33,62.12,598,Road,9:48,"Good, but right calf/shins hurt"
-6/5/22,Night,10.05,97.27,948,Road,9:40,"Good, to Staten Island Ferry and back via Hudson River"
-6/6/22,Night,9.59,99.62,911,Road,9:38,"Good, to Staten Island Ferry and back. Pace calculated from all but mile 6 (forgot to pause Strava)."
+6/5/22,Night,10.05,97.27,948,Road,9:40,Good. Usual route
+6/6/22,Night,9.59,99.62,911,Road,9:38,Good. Usual route
 6/9/22,Night,9.27,97.65,875,Road,9:45,Good; Strava splits were incorrect so pace calculated from miles 2-9
-6/11/22,Night,11.33,108.6,1071,Road,9:35,"Good, to Staten Island Ferry and back via Hudson River"
-6/13/22,Afternoon,6.27,62,597,Road,9:53,"Good run through Central Park with Julian, hills + heat kind of tough"
-6/17/22,Night,14.03,131.48,1325,Road,9:22,"Good run along the Hudson, some stomach pain near the end. Longest run so far!"
-6/20/22,Night,13.12,125.67,1238,Road,9:34,Good but felt quite hungry. Reached 500 miles in 2022.
-6/28/22,Morning,10.43,98.77,985,Road,9:28,Good early morning run on usual Hudson route
-6/30/22,Night,13.39,132.38,1264,Road,9:53,Good run on usual route but very hot and felt dehydrated at the end
-7/3/22,Morning,9.53,98.6,900,Road,10:21,Uncomfortably hot and therefore slow :(
-7/8/22,Night,11.67,110.87,1107,Road,9:30,Good run on usual route but felt a bit dehydrated at the end
-7/10/22,Night,12.06,117.17,1137,Road,9:43,Good run on usual route
-7/14/22,Night,12,121.03,1132,Road,10:05,Good run on usual route but very hot and slow
-7/17/22,Night,13.23,128.87,1250,Road,9:44,Good run on usual route but sharp stomach pain near the end
-7/23/22,Morning,11.08,109.15,1050,Road,9:51,Good river run in Paris to the east end of town
-7/25/22,Morning,8.66,84.68,825,Road,9:47,Good river run but hot and felt rly tired
-7/27/22,Morning,11.32,110.15,1075,Road,9:44,Good river run
+6/11/22,Night,11.33,108.6,1071,Road,9:35,Good. Usual route
+6/13/22,Afternoon,6.27,62,597,Road,9:53,CP with J. Tough hills/heat
+6/17/22,Night,14.03,131.48,1325,Road,9:22,Good. Usual route
+6/20/22,Night,13.12,125.67,1238,Road,9:34,Good but hungry. 500 miles in 2022
+6/28/22,Morning,10.43,98.77,985,Road,9:28,Good. Early morning
+6/30/22,Night,13.39,132.38,1264,Road,9:53,Very hot and dehydrated
+7/3/22,Morning,9.53,98.6,900,Road,10:21,Uncomfortably hot 
+7/8/22,Night,11.67,110.87,1107,Road,9:30,Dehydrated at the end
+7/10/22,Night,12.06,117.17,1137,Road,9:43,Good
+7/14/22,Night,12,121.03,1132,Road,10:05,Good but very hot
+7/17/22,Night,13.23,128.87,1250,Road,9:44,Good. Sharp stomach pain at end
+7/23/22,Morning,11.08,109.15,1050,Road,9:51,"Good river run, Paris"
+7/25/22,Morning,8.66,84.68,825,Road,9:47,Hot and really tired
+7/27/22,Morning,11.32,110.15,1075,Road,9:44,Good
 8/6/22,Night,13.16,137.87,1241,Road,10:28,Not good; felt dizzy and dehydrated. Too hot.
-8/13/22,Morning,3.28,27.92,315,Race,8:30,NYRR Harlem 5K! Difficult (very hilly) route but really fun
-8/16/22,Night,10.6,107.17,1000,Road,10:07,Slow run on usual route; some stomach pain
-8/20/22,Morning,12.55,119.38,1196,Race,9:30,NYRR 12 mile race in Central Park. Tough hills but really fun
+8/13/22,Morning,3.28,27.92,315,Race,8:30,NYRR Harlem 5K! Difficult (very hilly) route but fun
+8/16/22,Night,10.6,107.17,1000,Road,10:07,"Slow, painful on usual route"
+8/20/22,Morning,12.55,119.38,1196,Race,9:30,NYRR 12 mile race in Central Park
 8/27/22,Morning,6.55,61.97,623,Race,9:28,NYRR Grete's 10K. Stomach pain at the end
-9/1/22,Night,10.6,97.65,1000,Road,9:12,"Good run on usual route, better than normal bc of good/light food"
-9/6/22,Night,10.74,99.07,1013,Road,9:13,"Good run on usual route, better than normal bc of good/light food"
-9/9/22,Afternoon,5.26,48.32,496,Road,9:11,"Good run on usual route, had less time today"
-9/10/22,Night,3.43,19:40,324,Road,8:59,Short run the night before one-mile race
+9/1/22,Night,10.6,97.65,1000,Road,9:12,"Good run on usual route, better than normal bc of good food"
+9/6/22,Night,10.74,99.07,1013,Road,9:13,"Good run on usual route, better than normal bc of good food"
+9/9/22,Afternoon,5.26,48.32,496,Road,9:11,Good
+9/10/22,Night,3.43,19:40,324,Road,8:59,Short pre-race
 9/11/22,Morning,1,7:15,94,Race,7:15,NYRR 5th Avenue mile!
-9/15/22,Night,10.52,99.12,993,Road,9:25,Good run on usual route. Brahms violin concerto. Some stomach pain
+9/15/22,Night,10.52,99.12,993,Road,9:25,Brahms violin concerto
 9/18/22,Morning,10.34,99.45,997,Race,9:37,"NYRR Bronx 10 mile. A little tough (heat, hills, stomach pain) but fun overall"
-9/24/22,Morning,10.56,93.67,1007,Road,8:52,Lot of fun running to Brooklyn across the Manhattan bridge and Prospect Park with friends
-9/27/22,Night,13.14,116.63,1244,Road,8:52,Fastest half-marathon so far!
-10/7/22,Night,10.59,97.22,999,Road,9:11,Good run on usual route
+9/24/22,Morning,10.56,93.67,1007,Road,8:52,Across bridge to PP w friends
+9/27/22,Night,13.14,116.63,1244,Road,8:52,Fastest half so far
+10/7/22,Night,10.59,97.22,999,Road,9:11,Good
 10/9/22,Night,13.38,126.22,1269,Race,9:26,NYRR Staten Island half marathon. Tough route (hilly) but still fun
-10/15/22,Night,10.4,97.5,981,Road,9:22,Good run on usual route
-10/17/22,Morning,5.87,51.08,554,Road,8:42,Good morning run on usual route
-10/28/22,Afternoon,9.47,92.02,899,Road,9:47,Nice run in San Francisco with Adam
-11/1/22,Night,6.1,52.35,576,Road,8:35,Good run on usual route
-11/2/22,Night,4.7,40.63,444,Road,8:38,Good run on usual route
-11/7/22,Night,16.1,152.95,1520,Road,9:30,On usual route. Longest run so far
-11/9/22,Night,10.52,102.8,995,Road,9:46,Good run on usual route but sore calves
-11/17/22,Morning,3.8,36.62,358,Treadmill,9:38,Treadmill at old Ithaca apartment building
-11/20/22,Night,11.11,101.05,1049,Road,9:05,"Good run on usual route, sub-freezing, tried compression socks"
+10/15/22,Night,10.4,97.5,981,Road,9:22,Good
+10/17/22,Morning,5.87,51.08,554,Road,8:42,Good morning
+10/28/22,Afternoon,9.47,92.02,899,Road,9:47,SF with A
+11/1/22,Night,6.1,52.35,576,Road,8:35,Good
+11/2/22,Night,4.7,40.63,444,Road,8:38,Good
+11/7/22,Night,16.1,152.95,1520,Road,9:30,"Usual route, longest so far"
+11/9/22,Night,10.52,102.8,995,Road,9:46,Sore
+11/17/22,Morning,3.8,36.62,358,Treadmill,9:38,Ithy
+11/20/22,Night,11.11,101.05,1049,Road,9:05,Sub-freezing. Tried compression socks
 11/23/22,Night,3.18,24.02,301,Race,7:32,NYRR virtual race
-11/25/22,Night,5.76,56.38,543,Road,9:47,"On usual route, very sore from previous run"
+11/25/22,Night,5.76,56.38,543,Road,9:47,Very sore from previous run
 12/3/22,Morning,9.66,90.23,919,Race,9:20,NYRR 15K in Central Park
-12/5/22,Morning,11.68,115.12,1116,Road,9:51,"In Paris along the Seine, lot of Achilles pain"
-12/7/22,Night,13.27,130.98,1264,Road,9:52,"Monument tour in Paris, lot of Achilles pain"
+12/5/22,Morning,11.68,115.12,1116,Road,9:51,Seine. Achilles pain
+12/7/22,Night,13.27,130.98,1264,Road,9:52,Monumen tour. Achilles pain
 12/10/22,Morning,3.17,26.85,302,Race,8:28,NYRR 5K in Prospect Park - 10th race
-12/12/22,Night,9.33,80.57,880,Road,8:38,"Good run on usual route, 32 degrees"
-12/20/22,Afternoon,5.54,49.73,525,Road,8:58,Laps around Caltech. 11:36 on the same run this day last year!
-12/21/22,Morning,5.54,53.33,525,Road,9:37,"Laps around Caltech, too hot though"
-12/22/22,Afternoon,6.71,61.33,635,Road,9:08,Laps around Lacy Park
-12/23/22,Afternoon,5.29,49.63,499,Road,9:23,Laps around Lacy Park
-12/24/22,Morning,2.93,29.05,278,Road,9:54,Laps around Lacy Park. Did not feel great (sore and too much food)
-12/29/22,Morning,6.01,56.32,570,Road,9:21,Laps around Lacy Park
+12/12/22,Night,9.33,80.57,880,Road,8:38,Good. 32 degrees
+12/20/22,Afternoon,5.54,49.73,525,Road,8:58,Caltech laps. 11:36 on same run this day last year
+12/21/22,Morning,5.54,53.33,525,Road,9:37,Laps. Hot
+12/22/22,Afternoon,6.71,61.33,635,Road,9:08,Laps around LP
+12/23/22,Afternoon,5.29,49.63,499,Road,9:23,Laps around LP
+12/24/22,Morning,2.93,29.05,278,Road,9:54,Laps around LP. Sore and too much food
+12/29/22,Morning,6.01,56.32,570,Road,9:21,Laps around LP
 1/1/23,Afternoon,3.2,27.47,302,Road,8:35,NYRR virtual 5K
-1/6/23,Night,6.03,54.13,570,Road,8:58,"Good run on usual route, trying new NB shoes with carbon plate insert"
+1/6/23,Night,6.03,54.13,570,Road,8:58,Trying NB shoes with carbon plate insert
 1/7/23,Morning,6.3,61.1,600,Race,9:42,"NYRR 10K in Central Park, kind of tough"
-1/13/23,Night,9.51,88.25,897,Road,9:17,"Good run on usual route, tried bringing handheld water bottle"
-1/17/23,Night,9.47,87.33,893,Road,9:13,"Good run on usual route, tried Gu energy gel but it was weird"
-1/21/23,Afternoon,6.05,55.43,576,Road,9:10,Good run in Central Park
+1/13/23,Night,9.51,88.25,897,Road,9:17,Good. Tried bringing water bottle
+1/17/23,Night,9.47,87.33,893,Road,9:13,Good. Tried Gu gel but it was weird
+1/21/23,Afternoon,6.05,55.43,576,Road,9:10,Good. CP
 1/22/23,Morning,13.4,130.42,1277,Race,9:44,"NYRR half marathon, tough but pretty fun"
-1/30/23,Night,7.27,64.93,693,Road,8:56,New route over Williamsburg bridge to McCarren Park
-1/31/23,Night,9.01,80.18,850,Road,8:54,Good run on usual route
-2/10/23,Afternoon,3.31,30.98,313,Road,9:21,"Short run in Olympic Valley, CA. Tough altitudes"
-2/18/23,Afternoon,3.79,34.78,362,Road,9:10,Nice run in Bay Ridge with D
-2/19/23,Afternoon,3,26.33,284,Road,8:45,Laps around East River track
-2/20/23,Morning,9,82.82,854,Road,9:12,Up to Central Park and one lap around
-3/1/23,Night,5.55,48.63,525,Road,8:45,River to river lap around East Village/LES/West Village
-3/4/23,Afternoon,3.38,38.05,321,Road,11:15,Nice run around Prospect Park with J
-3/9/23,Night,9.51,81.68,898,Road,8:35,Good run on usual route
-3/10/23,Afternoon,5.01,45.02,473,Road,8:59,East/West Village
-3/15/23,Afternoon,2.07,18.65,196,Road,8:59,Run around neighborhood/Tompkins square park. Quite sore
-3/20/23,Night,9.46,89.85,892,Road,9:30,Good run on usual route but sore calves
-3/21/23,Night,3.01,29.3,285,Road,9:43,"East/West Village, bad calf pain"
-3/26/23,Morning,3.16,28.9,300,Road,9:08,Nice run in Bay Ridge with D
-3/31/23,Morning,3.67,33.78,350,Road,9:11,Nice run to the river in Paris
-4/6/23,Morning,8.16,73.17,770,Road,8:58,Good morning run on usual route
-4/7/23,Morning,4.11,37.78,388,Road,9:11,Good morning run on usual route
-4/9/23,Morning,20.1,206.6,1897,Road,10:17,"Run up to George Washington bridge and back. Last 4 miles were hard, ran out of water"
-4/16/23,Morning,3.68,38.17,348,Road,10:21,Short run to Hudson river and back. A lot of pain
-4/19/23,Night,11.77,111.02,1119,Road,9:26,"Mostly followed Brooklyn half route, plus Williamsburg bridge and minus Eastern Parkway. Really bad blister from Nike AF%. Apple Watch was too complicated."
-4/23/23,Morning,13.94,130.02,1325,Race,9:19,"NYCRUNS Brooklyn half marathon! Lot of rain, no music, painful blister, but managed to stay positive. PR"
-5/9/23,Night,7.44,72.38,517,Road,9:44,Run on usual route
-5/13/23,Afternoon,5.75,57.61,542,Road,10:01,Run with D from FiDi to Midtown along West Side
-5/20/23,Morning,13.1,121.77,880,Race,9:18,NYRR Brooklyn half marathon! Really fun. Strava data inaccurate bc crashed. PR
+1/30/23,Night,7.27,64.93,693,Road,8:56,New route over WBB to McP
+1/31/23,Night,9.01,80.18,850,Road,8:54,Good. Usual route
+2/10/23,Afternoon,3.31,30.98,313,Road,9:21,Olympic Valley. Tough altitude
+2/18/23,Afternoon,3.79,34.78,362,Road,9:10,Nice time in BR with D
+2/19/23,Afternoon,3,26.33,284,Road,8:45,ER track
+2/20/23,Morning,9,82.82,854,Road,9:12,Up to CP and one lap around
+3/1/23,Night,5.55,48.63,525,Road,8:45,River to river in EV/WV
+3/4/23,Afternoon,3.38,38.05,321,Road,11:15,PP with J
+3/9/23,Night,9.51,81.68,898,Road,8:35,Good. Usual route
+3/10/23,Afternoon,5.01,45.02,473,Road,8:59,EV/WV
+3/15/23,Afternoon,2.07,18.65,196,Road,8:59,Neighborhood and TSP. Sore
+3/20/23,Night,9.46,89.85,892,Road,9:30,Sore
+3/21/23,Night,3.01,29.3,285,Road,9:43,EV/WV. Calf pain
+3/26/23,Morning,3.16,28.9,300,Road,9:08,Nice time in BR with D
+3/31/23,Morning,3.67,33.78,350,Road,9:11,To Seine
+4/6/23,Morning,8.16,73.17,770,Road,8:58,Good morning run
+4/7/23,Morning,4.11,37.78,388,Road,9:11,Good morning run
+4/9/23,Morning,20.1,206.6,1897,Road,10:17,Up to GWB and back. Last 4 miles tough bc no water left
+4/16/23,Morning,3.68,38.17,348,Road,10:21,River and back. Painful
+4/19/23,Night,11.77,111.02,1119,Road,9:26,"Most of Brooklyn half route, plus WBB, minus Eastern Pkway. Really bad blister from Nike AF%. Apple Watch complicated."
+4/23/23,Morning,13.94,130.02,1325,Race,9:19,"NYCRUNS Brooklyn half marathon! Lot of rain, no music, painful blister, but fun. PR."
+5/9/23,Night,7.44,72.38,517,Road,9:44,Usual 
+5/13/23,Afternoon,5.75,57.61,542,Road,10:01,With D along WSH
+5/20/23,Morning,13.1,121.77,880,Race,9:18,NYRR Brooklyn half marathon! Strava data inaccurate bc crashed. PR.
 5/27/23,Morning,5.05,47.56,476,Race,9:24,Spring Lake NJ 5-mile race with D and A!
-5/30/23,Night,7.61,80.67,718,Road,10:37,"Run on usual route, very bad shin splint pain"
-6/10/23,Morning,6.3,57.65,596,Race,9:09,NYRR Womens' 10K! Lots of fun and very inspiring. Still have bad shin splint pain
+5/30/23,Night,7.61,80.67,718,Road,10:37,Very bad shin splint pain
+6/10/23,Morning,6.3,57.65,596,Race,9:09,NYRR Womens' 10K! Fun and inspiring. Still have bad shin splint pain
 6/18/23,Afternoon,3.13,29.47,296,Road,9:23,"NYRR virtual 5K, Global Running Day"
-6/18/23,Night,3.03,28.6,287,Road,9:25,"Second run of the day, through East/West Village"
-6/19/23,Night,3.57,35.4,339,Road,9:54,Over Williamsburg Bridge. Bad shin splint pain.
-6/22/23,Night,3.62,32.73,342,Road,9:02,East/West Village
-6/25/23,Night,5,49.9,472,Road,9:58,Up the Hudson to Upper West Side + nice walk afterwards
-6/26/23,Morning,3.03,31.13,214,Road,10:16,East/West Village. Still in pain + very hot out
-6/26/23,Night,4.26,41.93,402,Road,9:51,"Second run of the day, through East/West Village"
-6/29/23,Morning,3.23,29.53,305,Road,9:08,To/around Washington Square Park (avoid nasty NW corner). Practiced higher cadence.
-7/2/23,Night,9.04,91.63,858,Road,10:08,"Good run around Central Park + back home, but very hot"
-7/7/23,Night,2,19.12,189,Road,9:32,Run through East Village/SoHo. Hot out
-7/12/23,Morning,6.27,57.98,593,Road,9:14,Nice run through downtown Ithaca
-7/13/23,Morning,4.17,34.05,396,Road,8:10,Run around Arts Quad at Cornell
-7/14/23,Morning,3.2,25.95,305,Road,8:06,Run around Arts Quad at Cornell
-7/17/23,Night,3,26.13,284,Road,8:41,East/West Village. Very hot out.
-7/23/23,Night,4.11,39.15,389,Road,9:31,East/West Village. Very hot out.
-7/26/23,Night,2,16.95,189,Road,8:27,East Village/Kips Bay. Very hot out
-7/28/23,Night,2,19.2,189,Road,9:35,East Village + nasty Tompkins Square Park
-8/1/23,Night,2.63,24.48,248,Road,9:18,East/West Village
-8/11/23,Night,10.04,97.08,947,Road,9:40,"To Upper West Side and back, very pretty"
-8/15/23,Night,5.38,51.63,390,Road,9:36,Good run along usual route
-8/19/23,Morning,13.57,114.42,1291,Race,8:26,NYRR 12 mile race in Central Park. Not very convinced Strava statistics are accurate.
-8/19/23,Night,2.21,20.6,209,Road,9:21,"Second run of the day, East Village/Houston/Tompkins Square"
-8/21/23,Night,2.13,18.9,201,Road,8:52,East Village/Houston/Tompkins Square. Very hot out.
-8/26/23,Morning,3.01,28.42,284,Road,9:26,East/West Village. Very hot out.
-8/29/23,Night,4.67,45.25,440,Road,9:41,Down to Staten Island Ferry Terminal. Had a tough time. Walked back
-8/31/23,Night,6.03,56.72,569,Road,9:24,To Goldman Sax building and back. Good run
-9/2/23,Morning,8.11,81,766,Road,9:59,Kind of difficult to SI Ferry and back + piers. Listened to Des Linden's audiobook.
+6/18/23,Night,3.03,28.6,287,Road,9:25,"Two runs in one day, EV/WV"
+6/19/23,Night,3.57,35.4,339,Road,9:54,Over WBB. Bad shin splint pain.
+6/22/23,Night,3.62,32.73,342,Road,9:02,EV/WV
+6/25/23,Night,5,49.9,472,Road,9:58,To UWS + walk afterwards
+6/26/23,Morning,3.03,31.13,214,Road,10:16,Painful and very hot
+6/26/23,Night,4.26,41.93,402,Road,9:51,"Two runs in one day, EV/WV"
+6/29/23,Morning,3.23,29.53,305,Road,9:08,WSP. Practiced higher cadence.
+7/2/23,Night,9.04,91.63,858,Road,10:08,CP + back. Very hot
+7/7/23,Night,2,19.12,189,Road,9:32,EV. Very hot
+7/12/23,Morning,6.27,57.98,593,Road,9:14,DT Ithy
+7/13/23,Morning,4.17,34.05,396,Road,8:10,AQ Cornell
+7/14/23,Morning,3.2,25.95,305,Road,8:06,AQ Cornell
+7/17/23,Night,3,26.13,284,Road,8:41,EV/WV. Very hot
+7/23/23,Night,4.11,39.15,389,Road,9:31,EV/WV. Very hot
+7/26/23,Night,2,16.95,189,Road,8:27,EV/KB. Very hot
+7/28/23,Night,2,19.2,189,Road,9:35,EV + nasty TSP
+8/1/23,Night,2.63,24.48,248,Road,9:18,EV/WV
+8/11/23,Night,10.04,97.08,947,Road,9:40,UWS and back. Very pretty
+8/15/23,Night,5.38,51.63,390,Road,9:36,Good
+8/19/23,Morning,13.57,114.42,1291,Race,8:26,NYRR 12 mile race in Central Park. Not sure Strava was accurate
+8/19/23,Night,2.21,20.6,209,Road,9:21,"Two runs in one day, EV"
+8/21/23,Night,2.13,18.9,201,Road,8:52,EV/TSP. Very hot
+8/26/23,Morning,3.01,28.42,284,Road,9:26,EV/WV. Very hot
+8/29/23,Night,4.67,45.25,440,Road,9:41,Down to SIFT. Tough. Walked back
+8/31/23,Night,6.03,56.72,569,Road,9:24,GS and back. Good
+9/2/23,Morning,8.11,81,766,Road,9:59,Tough to SIFT and back. Listened to Des Linden
 9/10/23,Morning,1,7.07,65,Race,7:04,NYRR 5th Avenue mile!
-9/10/23,Night,8.05,69.72,760,Road,8:39,Good run along usual route
-9/14/23,Night,10,95.52,943,Road,9:33,Good run along usual route
-9/15/23,Night,10,96.55,943,Road,9:39,Good run up to Upper West Side
+9/10/23,Night,8.05,69.72,760,Road,8:39,Good. Usual route
+9/14/23,Night,10,95.52,943,Road,9:33,Good. Usual route
+9/15/23,Night,10,96.55,943,Road,9:39,Good. UWS
 9/17/23,Morning,11.3,142.82,1069,Race,9:06,NYRR Bronx 10 mile. 9/9 for 2024
-9/23/23,Afternoon,4.03,45.3,386,Road,11:14,Scenic run in Paris but was nauseous/blacking out
-9/30/23,Morning,5.29,51.45,502,Road,9:43,Run to Brooklyn Wegmans. Kind of difficult
-10/4/23,Night,3,25.47,284,Road,8:29,To Hudson River and back
-10/8/23,Morning,13.1,139.83,1230,Race,10:45,NYRR Staten Island half marathon. Had a really hard time on hills + feeling down.
-10/10/23,Afternoon,4.51,39.22,426,Road,8:42,East/West Village + some river. Feeling better
-10/12/23,Night,8,76.3,757,Road,9:32,Good run along usual route
-10/15/23,Afternoon,17,176.62,1608,Road,10:23,To Battery Park then 95th St then Central Park (first time around reservoir) then to 28th St. Pretty difficult.
-10/16/23,Night,6.18,59.7,589,Road,9:39,Good run around Central Park. Felt better than yesterday.
-10/17/23,Night,6.11,56.4,577,Road,9:13,Good run along usual route
-10/18/23,Night,13.53,134.76,1282,Road,9:57,"To Brooklyn Bridge along usual route, then back to UN area. Last 3 miles were hard, maybe because of stops thru Midtown"
-10/21/23,Afternoon,14,145.38,1331,Road,10:23,Two laps around Central Park + reservoir lap. Ankles/feet hurt by the end. Felt decent otherwise.
-10/22/23,Night,6.13,60.05,584,Road,10:20,Good run around Central Park
-10/25/23,Night,6.38,56.55,602,Road,8:52,Good run along usual route
-10/26/23,Night,9.16,87.88,864,Road,9:36,Good run along usual route. Inhaler probably helped
-10/27/23,Night,7.73,83.77,735,Road,10:50,One loop around Central Park + one loop around reservoir
-10/29/23,Morning,8.36,84.05,797,Road,10:03,"Over Williamsburg Bridge, then Pulaski into Queens, then Queensboro into Manhattan. QB not as bad as expected."
+9/23/23,Afternoon,4.03,45.3,386,Road,11:14,Paris. Blacking out
+9/30/23,Morning,5.29,51.45,502,Road,9:43,To BK Wegmans. Tough
+10/4/23,Night,3,25.47,284,Road,8:29,EV/WV
+10/8/23,Morning,13.1,139.83,1230,Race,10:45,NYRR Staten Island half marathon. Had a really hard time on hills
+10/10/23,Afternoon,4.51,39.22,426,Road,8:42,EV/WV
+10/12/23,Night,8,76.3,757,Road,9:32,Good. Usual route
+10/15/23,Afternoon,17,176.62,1608,Road,10:23,"BP, W95, CP. Tough"
+10/16/23,Night,6.18,59.7,589,Road,9:39,Good. CP
+10/17/23,Night,6.11,56.4,577,Road,9:13,Good. Usual route
+10/18/23,Night,13.53,134.76,1282,Road,9:57,"To BK bridge, then midtown. Tough bc of stops."
+10/21/23,Afternoon,14,145.38,1331,Road,10:23,Two CP + one reservoir
+10/22/23,Night,6.13,60.05,584,Road,10:20,Good. CP
+10/25/23,Night,6.38,56.55,602,Road,8:52,Good. Usual route
+10/26/23,Night,9.16,87.88,864,Road,9:36,Good. Usual route. Inhaler helped
+10/27/23,Night,7.73,83.77,735,Road,10:50,CP + reservoir
+10/29/23,Morning,8.36,84.05,797,Road,10:03,Tri-boro
 10/31/23,Night,1.47,15.28,139,Road,10:23,Just wanted to complete 200km in October
-11/4/23,Morning,5.34,53.15,504,Road,9:56,Good run along usual route before tomorrow�
-11/5/23,Morning,28.02,293.05,2654,Race,10:27,"NYC Marathon! So much fun. Stomach pain last 7 miles or so, probably drank too much water."
+11/4/23,Morning,5.34,53.15,504,Road,9:56,Good. Usual route
+11/5/23,Morning,28.02,293.05,2654,Race,10:27,"NYC Marathon! Stomach pain last 7 miles or so, probably drank too much water."
+11/10/23,Night,3.04,26.57,287,Road,8:44,EV/WV
+11/11/23,Morning,7.15,69,675,Road,9:39,Good. Usual route
+11/20/23,Night,8.17,70.65,770,Road,8:39,Good. Usual route
+11/21/23,Morning,2.81,27.02,197,Road,9:36,EV/WV. Didn't feel great this AM
+11/25/23,Night,8.08,73.73,766,Road,9:07,Good. Usual route
+11/27/23,Night,5,44.43,472,Road,8:53,"Usual route, so cold"
+11/29/23,Morning,1.4,14.08,132,Road,10:03,Idk
+12/2/23,Morning,7.6,78.1,537,Road,9:54,CP + res
+12/5/23,Night,8.07,75.23,761,Road,9:19,Good. Usual route
+12/16/23,Afternoon,4.11,38.5,388,Road,9:22,Decent. Usual
+12/22/23,Afternoon,5,46.37,473,Road,9:16,CalT track
+12/22/23,Afternoon,2.8,30.02,264,Treadmill,10:42,CalT part 2
+12/23/23,Afternoon,5,49.78,472,Road,9:57,CalT track
+12/26/23,Afternoon,5,46.48,473,Road,9:17,Laps around LP
+12/27/23,Afternoon,5.51,53.7,521,Road,9:44,CalT track
+1/1/24,Afternoon,5,50,471,Treadmill,10:00,LAF treadmill
+1/11/24,Night,9.15,86.85,864,Road,9:29,Good. Usual route
+1/21/24,Afternoon,3.6,35.03,340,Road,9:43,EV/WV. Very cold
+1/23/24,Night,4.26,45.57,402,Road,10:41,WB with H
+1/25/24,Night,11.64,118.78,1098,Road,10:12,Good. Usual route
+1/26/24,Night,8.26,80.78,779,Road,9:46,Good. Usual route
+2/2/24,Night,6.52,58.8,615,Road,9:01,Good. Usual route
+2/3/24,Afternoon,3.04,30.1,288,Road,9:53,Good. CP res
+2/4/24,Afternoon,11.1,107.12,1057,Road,9:39,Good. CP
+2/9/24,Afternoon,5.49,49.48,518,Road,9:00,Good. Usual route
+2/12/24,Night,5.4,51.9,510,Road,9:36,Good. Usual route
+2/14/24,Night,2.92,30.45,275,Road,10:25,Good. CDRC
+2/19/24,Night,7.53,68.62,712,Road,9:06,Good. Usual route
+2/21/24,Night,3.26,30.87,308,Road,9:27,Good. CDRC
+2/24/24,Morning,18.16,176.8,1721,Road,9:44,"So much fun. Up to GWB, down CP. Lot of stomach pain last 3 miles (maybe too much water)"
+2/26/24,Night,5.6,49.18,529,Road,8:47,Good. Usual route
+3/2/24,Morning,10.04,83.15,955,Road,9:00,Approx. pace. Raining. Felt heavy
+3/3/24,Morning,5,47.5,500,Road,9:30,Approx pace. Good run w J.
+3/4/24,Night,7,67.13,661,Road,9:35,"Great, NB carbon plates"
+3/9/24,Morning,12.02,99.37,1139,Road,8:16,CP perimeter. Really fun
+3/10/24,Afternoon,7.72,69.57,736,Road,9:01,To PP. Tough hills
+3/17/24,Morning,13.7,129.85,1301,Race,9:28,UA NYC Half! Felt good the whole way. Consistent pacing.
