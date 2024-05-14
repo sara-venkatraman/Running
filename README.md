@@ -20,13 +20,18 @@ ggarrange(p1, p2, nrow=2)
 
 ![](Plots/README-Running-Plots-1.png)<!-- -->
 
+``` r
+# runningData$Year <- format(runningData$Date, "%Y")
+# ggplot(runningData[runningData$Year > "2021",], aes(x = Miles)) + geom_histogram(aes(y = ..density..), color = "black", fill = "gray") + facet_grid(. ~ Year)
+```
+
 Total miles since 11/29/21:
 
 ``` r
 sum(runningData$Miles)
 ```
 
-    ## [1] 1956.35
+    ## [1] 2026.47
 
 Average distance over last ten runs:
 
@@ -34,4 +39,4 @@ Average distance over last ten runs:
 mean(tail(runningData$Miles, 10))
 ```
 
-    ## [1] 7.082
+    ## [1] 8.418
