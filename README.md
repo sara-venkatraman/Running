@@ -31,7 +31,7 @@ runningData$Year <- format(runningData$Date, "%Y")
 ggplot(runningData[runningData$Year > "2021",], aes(x = Miles)) + geom_histogram(color = "black", fill = "gray", bins = 15) + facet_grid(. ~ Year) + ylab("Frequency")
 ```
 
-![](Plots/README-unnamed-chunk-1-1.png)<!-- -->
+![](Plots/README-Running-Plots-2-1.png)<!-- -->
 
 #### Summary
 
