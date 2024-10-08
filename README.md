@@ -41,7 +41,7 @@ Total miles since 11/29/21:
 sum(runningData$Miles)
 ```
 
-    ## [1] 2364.19
+    ## [1] 2386.34
 
 Average distance over last ten runs:
 
@@ -49,4 +49,4 @@ Average distance over last ten runs:
 mean(tail(runningData$Miles, 10))
 ```
 
-    ## [1] 6.554
+    ## [1] 6.824
