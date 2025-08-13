@@ -68,7 +68,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 5/18/22,Night,8.8,87.65,834,Road,9:57,
 5/21/22,Night,7.18,67.85,678,Road,9:27,
 5/22/22,Night,5.07,49.98,479,Road,9:51,
-5/23/22,Night,7.91,74.67,748,Road,9:26,400 miles in 2022
+5/23/22,Night,7.91,74.67,748,Road,9:26,
 5/28/22,Night,9.98,95.88,942,Road,9:36,
 5/29/22,Night,6.82,64.87,644,Road,9:30,
 6/3/22,Night,9.7,95.18,916,Road,9:49,
@@ -91,7 +91,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 7/25/22,Morning,8.66,84.68,825,Road,9:47,
 7/27/22,Morning,11.32,110.15,1075,Road,9:44,
 8/6/22,Night,13.16,137.87,1241,Road,10:28,
-8/13/22,Morning,3.28,27.92,315,Race,8:30,NYRR Harlem 5K - difficult (hilly) but fun
+8/13/22,Morning,3.28,27.92,315,Race,8:30,NYRR Harlem 5K
 8/16/22,Night,10.6,107.17,1000,Road,10:07,
 8/20/22,Morning,12.55,119.38,1196,Race,9:30,NYRR 12 mile
 8/27/22,Morning,6.55,61.97,623,Race,9:28,NYRR 10K
@@ -105,7 +105,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 9/24/22,Morning,10.56,93.67,1007,Road,8:52,
 9/27/22,Night,13.14,116.63,1244,Road,8:52,
 10/7/22,Night,10.59,97.22,999,Road,9:11,
-10/9/22,Night,13.38,126.22,1269,Race,9:26,NYRR Staten Island half marathon. Hilly but fun
+10/9/22,Night,13.38,126.22,1269,Race,9:26,NYRR Staten Island half marathon
 10/15/22,Night,10.4,97.5,981,Road,9:22,
 10/17/22,Morning,5.87,51.08,554,Road,8:42,
 10/28/22,Afternoon,9.47,92.02,899,Road,9:47,
@@ -115,7 +115,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 11/9/22,Night,10.52,102.8,995,Road,9:46,
 11/17/22,Morning,3.8,36.62,358,Treadmill,9:38,
 11/20/22,Night,11.11,101.05,1049,Road,9:05,
-11/23/22,Night,3.18,24.02,301,Race,7:32,NYRR virtual race
+11/23/22,Night,3.18,24.02,301,Race,7:32,NYRR virtual 5K
 11/25/22,Night,5.76,56.38,543,Road,9:47,
 12/3/22,Morning,9.66,90.23,919,Race,9:20,NYRR 15K
 12/5/22,Morning,11.68,115.12,1116,Road,9:51,
@@ -155,13 +155,13 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 4/9/23,Morning,20.1,206.6,1897,Road,10:17,
 4/16/23,Morning,3.68,38.17,348,Road,10:21,
 4/19/23,Night,11.77,111.02,1119,Road,9:26,
-4/23/23,Morning,13.94,130.02,1325,Race,9:19,NYCRUNS Brooklyn half marathon. Lot of rain. PR.
+4/23/23,Morning,13.94,130.02,1325,Race,9:19,NYCRUNS Brooklyn half marathon. PR
 5/9/23,Night,7.44,72.38,517,Road,9:44,
 5/13/23,Afternoon,5.75,57.61,542,Road,10:01,
-5/20/23,Morning,13.1,121.77,880,Race,9:18,NYRR Brooklyn half marathon. PR.
-5/27/23,Morning,5.05,47.56,476,Race,9:24,Spring Lake NJ 5-mile race
+5/20/23,Morning,13.1,121.77,880,Race,9:18,NYRR Brooklyn half marathon. PR
+5/27/23,Morning,5.05,47.56,476,Race,9:24,Spring Lake NJ 5 mile race
 5/30/23,Night,7.61,80.67,718,Road,10:37,
-6/10/23,Morning,6.3,57.65,596,Race,9:09,NYRR Womens' 10K. Shin splint
+6/10/23,Morning,6.3,57.65,596,Race,9:09,NYRR Womens' 10K
 6/18/23,Afternoon,3.13,29.47,296,Road,9:23,"NYRR virtual 5K, Global Running Day"
 6/18/23,Night,3.03,28.6,287,Road,9:25,
 6/19/23,Night,3.57,35.4,339,Road,9:54,
@@ -197,7 +197,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 9/23/23,Afternoon,4.03,45.3,386,Road,11:14,
 9/30/23,Morning,5.29,51.45,502,Road,9:43,
 10/4/23,Night,3,25.47,284,Road,8:29,
-10/8/23,Morning,13.1,139.83,1230,Race,10:45,NYRR Staten Island half marathon. Hard
+10/8/23,Morning,13.1,139.83,1230,Race,10:45,NYRR Staten Island half marathon
 10/10/23,Afternoon,4.51,39.22,426,Road,8:42,
 10/12/23,Night,8,76.3,757,Road,9:32,
 10/15/23,Afternoon,17,176.62,1608,Road,10:23,
@@ -212,7 +212,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 10/29/23,Morning,8.36,84.05,797,Road,10:03,
 10/31/23,Night,1.47,15.28,139,Road,10:23,
 11/4/23,Morning,5.34,53.15,504,Road,9:56,
-11/5/23,Morning,26.5,293.05,2654,Race,10:27,NYC Marathon. Fun; stomach pain last ~7 mi
+11/5/23,Morning,26.5,293.05,2654,Race,10:27,NYC Marathon
 11/10/23,Night,3.04,26.57,287,Road,8:44,
 11/11/23,Morning,7.15,69,675,Road,9:39,
 11/20/23,Night,8.17,70.65,770,Road,8:39,
@@ -249,7 +249,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 3/4/24,Night,7,67.13,661,Road,9:35,NB carbon plates
 3/9/24,Morning,12.02,99.37,1139,Road,8:16,
 3/10/24,Afternoon,7.72,69.57,736,Road,9:01,
-3/17/24,Morning,13.7,129.85,1301,Race,9:28,UA NYC half marathon. Equal 5K splits
+3/17/24,Morning,13.7,129.85,1301,Race,9:28,NYRR UA NYC half marathon. Equal 5K splits
 3/19/24,Night,3.57,33.85,251,Road,9:28,
 3/22/24,Night,8,72.72,761,Road,9:05,
 3/24/24,Morning,16,144.95,1523,Road,9:03,
@@ -264,7 +264,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 4/13/24,Afternoon,5.12,46.77,482,Road,9:08,
 4/14/24,Morning,5.05,45.83,475,Road,9:04,
 4/14/24,Afternoon,6,56.65,573,Road,9:26,
-4/16/24,Night,9.33,61.68,880,Road,8:45,Sent mile 3
+4/16/24,Night,9.33,61.68,880,Road,8:45,
 4/17/24,Night,3.23,33.25,305,Road,10:17,CDRC
 4/20/24,Morning,7.91,79.33,754,Road,10:02,
 4/21/24,Afternoon,14.06,134.62,1026,Road,9:34,
@@ -278,7 +278,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 5/11/24,Afternoon,9.01,83.23,652,Road,9:14,
 5/12/24,Night,9.5,90.75,668,Road,9:33,
 5/14/24,Morning,5.35,48.65,508,Road,9:06,
-5/18/24,Morning,13.4,118.32,1263,Race,8:50,NYRR Brooklyn half marathon. PR.
+5/18/24,Morning,13.4,118.32,1263,Race,8:50,NYRR Brooklyn half marathon. PR
 5/21/24,Morning,5,47.95,475,Road,9:35,
 5/22/24,Night,5.5,49.37,523,Road,8:58,
 5/28/24,Afternoon,3.76,35.78,272,Road,9:31,
@@ -356,7 +356,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 10/25/24,Morning,6.67,63.37,635,Road,9:29,
 10/26/24,Morning,5.69,54.62,409,Road,9:35,
 10/27/24,Afternoon,19.1,190.3,1409,Road,9:58,
-11/3/24,Morning,26.2,267.03,1946,Race,9:55,NYC Marathon. Fun!
+11/3/24,Morning,26.2,267.03,1946,Race,9:55,NYC Marathon
 11/8/24,Morning,3.88,39.17,283,Road,10:05,
 11/11/24,Morning,3.92,36.1,372,Road,9:13,
 11/14/24,Afternoon,6.2,57.35,586,Road,9:15,
@@ -371,7 +371,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 11/28/24,Afternoon,6.48,60.95,469,Road,9:24,
 11/29/24,Afternoon,11.12,109.4,897,Road,9:50,Pacing 2.0
 11/30/24,Afternoon,3.5,35.88,333,Road,10:15,Pacing 2.1
-12/1/24,Morning,14,135.83,1319,Race,9:38,Half Marathon at Rockaway
+12/1/24,Morning,14,135.83,1319,Race,9:38,Rockaway Beach half marathon
 12/4/24,Night,4.27,37.53,405,Road,8:46,
 12/7/24,Morning,9.43,87.53,723,Race,9:17,
 12/7/24,Afternoon,3,29.67,221,Road,9:52,Pacing 3.0
@@ -429,7 +429,7 @@ Date,Morning_Afternoon_Night,Miles,Time_Minutes,Calories,Treadmill_Road,Average_
 2/28/25,Morning,8.25,77.7,784,Road,9:25,
 3/1/25,Morning,14.14,138.23,1344,Road,9:47,
 3/3/25,Morning,5.7,52.4,542,Road,9:11,
-3/4/25,Night,4.77,40.55,452,Road,8:29,
+3/4/25,Night,4.77,40.55,452,Road,8:29,NB carbon plates
 3/6/25,Night,9.22,85.6,869,Road,9:17,
 3/8/25,Afternoon,17.19,163.3,1632,Road,9:30,
 3/9/25,Morning,6.8,60.32,642,Road,8:52,
