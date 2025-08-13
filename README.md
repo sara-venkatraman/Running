@@ -33,7 +33,7 @@ runsPerYear <- table(runningData$Year)
 runningData$Year <- factor(runningData$Year, labels = paste(milesPerYear$Year, "\n", round(milesPerYear$Miles, 2), " miles over ", runsPerYear, " runs", sep = ""))
 
 breaks <- c(0, 3.1, 6.2, 10, 13.1, 16, 20, 26.2)
-ggplot(runningData[- grep("2021", runningData$Year),], aes(x = Miles)) + geom_histogram(color = "midnightblue", fill = "slategray3", breaks = breaks) + facet_grid(. ~ Year) + ylab("Frequency") + scale_x_continuous(breaks = breaks) + theme_bw() + theme(strip.text.x = element_text(face = "bold"), axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
+ggplot(runningData[- grep("2021", runningData$Year),], aes(x = Miles)) + geom_histogram(color = "midnightblue", fill = "slategray3", breaks = breaks) + facet_grid(. ~ Year) + ylab("Frequency") + scale_x_continuous(breaks = breaks) + scale_y_continuous(breaks = seq(0, 80, 20)) + theme_bw() + theme(strip.text.x = element_text(face = "bold"), axis.text.x = element_text(angle = 45, vjust = 1, hjust = 1))
 ```
 
 ![](Plots/README-Running-Plots-2-1.png)<!-- -->
